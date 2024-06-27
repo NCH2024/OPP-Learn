@@ -4,8 +4,8 @@
 (These are some of the programs that I learned in class, maybe they will be useful for you to refer to!)
 ## Content
 
-Dây là những đoạn code đơn giản đến phức tập về lập trình hướng đối tượng trên [C++](https://www.bloodshed.net/)
-
+Đây là những đoạn code đơn giản đến phức tập về lập trình hướng đối tượng trên [C++](https://www.bloodshed.net/)
+(These are simple to complex pieces of code about object-oriented programming on [C++](https://www.bloodshed.net/))
 ```bash
 C++ program
 ```
