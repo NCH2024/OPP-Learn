@@ -39,4 +39,4 @@ Thank you and regards!)
 
 ## License
 
-Do not have!
+Được lưu trữ bởi (Hosted by): [Nguyễn Chánh Hiệp](https://github.com/NCH2024)
